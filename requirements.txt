@@ -86,3 +86,5 @@ shap==0.46.0
 ipykernel
 matplotlib-inline
 kaggle
+datasets
+accelerate 
